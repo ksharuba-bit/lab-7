@@ -1,0 +1,100 @@
+
+MENU
+1 - Add linear function
+2 - Add quadratic function
+3 - Add cubic function
+4 - Show all
+5 - Search by type
+6 - Edit record
+7 - Calculate value
+0 - Exit
+Choice: Enter a b: 
+MENU
+1 - Add linear function
+2 - Add quadratic function
+3 - Add cubic function
+4 - Show all
+5 - Search by type
+6 - Edit record
+7 - Calculate value
+0 - Exit
+Choice: Enter a b c: 
+MENU
+1 - Add linear function
+2 - Add quadratic function
+3 - Add cubic function
+4 - Show all
+5 - Search by type
+6 - Edit record
+7 - Calculate value
+0 - Exit
+Choice: Enter a b c d: 
+MENU
+1 - Add linear function
+2 - Add quadratic function
+3 - Add cubic function
+4 - Show all
+5 - Search by type
+6 - Edit record
+7 - Calculate value
+0 - Exit
+Choice: 1. Linear: y = 2.00x - 1.00
+2. Quadratic: y = 1.00x^2 - 4.00x + 3.00
+3. Cubic: y = 1.00x^3 - 2.00x^2 + 0.00x + 5.00
+
+MENU
+1 - Add linear function
+2 - Add quadratic function
+3 - Add cubic function
+4 - Show all
+5 - Search by type
+6 - Edit record
+7 - Calculate value
+0 - Exit
+Choice: Type (linear/quadratic/cubic): 2. Quadratic: y = 1.00x^2 - 4.00x + 3.00
+
+MENU
+1 - Add linear function
+2 - Add quadratic function
+3 - Add cubic function
+4 - Show all
+5 - Search by type
+6 - Edit record
+7 - Calculate value
+0 - Exit
+Choice: Record number and x: y(3.00) = 0.00
+
+MENU
+1 - Add linear function
+2 - Add quadratic function
+3 - Add cubic function
+4 - Show all
+5 - Search by type
+6 - Edit record
+7 - Calculate value
+0 - Exit
+Choice: Record number: Enter new coefficients for quadratic: Record updated.
+
+MENU
+1 - Add linear function
+2 - Add quadratic function
+3 - Add cubic function
+4 - Show all
+5 - Search by type
+6 - Edit record
+7 - Calculate value
+0 - Exit
+Choice: 1. Linear: y = 2.00x - 1.00
+2. Quadratic: y = 1.00x^2 - 6.00x + 8.00
+3. Cubic: y = 1.00x^3 - 2.00x^2 + 0.00x + 5.00
+
+MENU
+1 - Add linear function
+2 - Add quadratic function
+3 - Add cubic function
+4 - Show all
+5 - Search by type
+6 - Edit record
+7 - Calculate value
+0 - Exit
+Choice: 
